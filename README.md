@@ -1,7 +1,10 @@
 **Hotel Reservation System**
 
+
 **Overview**
+
 This is a simple console-based Hotel Reservation System written in Java. The system allows users to search for available rooms, make reservations, and view existing reservations. It is designed to demonstrate basic object-oriented programming concepts, including classes, objects, and encapsulation.
+
 
 **Features**
 
@@ -19,6 +22,7 @@ This is a simple console-based Hotel Reservation System written in Java. The sys
 
 **ArrayList**: Used to store the list of rooms and reservations.
 
+
 **Usage**
 
 Once the program is running, you can interact with it through a simple menu:
@@ -30,6 +34,7 @@ Once the program is running, you can interact with it through a simple menu:
 **View Reservations:** Shows all current reservations.
 
 **Exit:** Close the application.
+
 
 **Contributing**
 
